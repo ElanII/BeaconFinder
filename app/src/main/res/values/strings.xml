@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeaconFinder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_beacon_to_profile">Neues Beacon hinzufügen</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <string-array name="contextMenu">
+        <item name="delete">Entfernen</item>
+        <item name="lost">Als verloren melden</item>
+    </string-array>
+
+</resources>
